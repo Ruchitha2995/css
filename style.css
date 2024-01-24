@@ -1,0 +1,72 @@
+ 
+nav{
+
+ background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid blue;
+}
+#box{
+  font-size: 20px;
+  color: black;
+  margin-bottom: 300px;
+  
+}
+section{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 4px;
+    gap: 60px;
+    
+
+    
+}
+footer{
+background-color: cyan;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 4px;
+    
+
+}
+header{
+    width: 30px;
+    height: 30px;
+}
+#box1{
+    font-size: 60px;
+    color: red;
+    margin-bottom: 400px;
+    justify-content: space-between;
+
+
+
+}
+#box2{
+    font-size: 60px;
+    color: red;
+    margin-bottom: 400px;
+    justify-content: space-between;
+
+}
+#box3{
+    font-size: 60px;
+    color: red;
+    margin-bottom: 400px;
+    justify-content: space-between;
+}
+.container{
+    width: 1200px;
+    height: 600px;
+    margin: 100px auto;
+    padding: 100px;
+    box-sizing: border-box;
+    background-image: url("conctact 1.png");
+    background-repeat: no-repeat;
+    background-position: 50px;
+}
+
